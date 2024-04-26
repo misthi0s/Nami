@@ -1,0 +1,7 @@
+# private files
+_keys/*
+output/*
+NamiC2.exe
+implant/config.implant
+db/Nami.db
+scratch/*
